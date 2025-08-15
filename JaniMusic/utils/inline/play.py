@@ -60,9 +60,9 @@ def stream_markup_timer(_, chat_id, played, dur):
                 callback_data="GetTimer",
             )
         ],
-               # [
+                [
          #InlineKeyboardButton(text=_["S_B_3"], url=f"https://t.me/{app.username}?startgroup=true",)
-        #],
+        ],
         [
          #InlineKeyboardButton(text="Update", url="https://t.me/Jani_RP"),
          #InlineKeyboardButton(text="Owner", url="http://t.me/Jani_RP_Lover"),
