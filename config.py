@@ -39,8 +39,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Jani_RP")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+Vnjj922KAac5ZGFl")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/+c4LoS5-9v0M4NzQ1")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+c4LoS5-9v0M4NzQ1")
 
 API_URL = getenv("API_URL", 'https://api.thequickearn.xyz') 
 API_KEY = getenv("API_KEY", 'NxGBNexGenBots7a482a')
@@ -81,10 +81,10 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://files.catbox.moe/0nxmuk.jpg"
+    "START_IMG_URL", "https://files.catbox.moe/unu8px.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://files.catbox.moe/0nxmuk.jpg"
+    "PING_IMG_URL", "https://files.catbox.moe/unu8px.jpg"
 )
 PLAYLIST_IMG_URL = "https://te.legra.ph/file/4ec5ae4381dffb039b4ef.jpg"
 STATS_IMG_URL = "https://te.legra.ph/file/e906c2def5afe8a9b9120.jpg"
