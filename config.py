@@ -43,7 +43,7 @@ SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/+c4LoS5-9v0M4NzQ1")
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+c4LoS5-9v0M4NzQ1")
 
 API_URL = getenv("API_URL", 'https://api.thequickearn.xyz') 
-API_KEY = getenv("API_KEY", 'NxGBNexGenBots7a482a')
+API_KEY = getenv("API_KEY", 'NxGBNexGenBotsb1880e')
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
