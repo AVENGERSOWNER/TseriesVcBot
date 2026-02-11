@@ -32,15 +32,15 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/JaniPrivetRepo/Mehak-private-Repo",
+    "https://github.com/AVENGERSOWNER/TseriesVcBot",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "jani")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/+gVWf5Y_c5NA5MGY1")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+gVWf5Y_c5NA5MGY1")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/best_friends_world_chat")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/best_friends_world_chat")
 
 API_URL = getenv("API_URL", 'https://api.thequickearn.xyz') 
 API_KEY = getenv("API_KEY", 'NxGBNexGenBotsc5b366')
@@ -81,10 +81,10 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://litter.catbox.moe/y1np46.jpg"
+    "START_IMG_URL", "https://files.catbox.moe/256oqd.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://litter.catbox.moe/y1np46.jpg"
+    "PING_IMG_URL", "https://files.catbox.moe/256oqd.jpg"
 )
 PLAYLIST_IMG_URL = "https://te.legra.ph/file/4ec5ae4381dffb039b4ef.jpg"
 STATS_IMG_URL = "https://te.legra.ph/file/e906c2def5afe8a9b9120.jpg"
